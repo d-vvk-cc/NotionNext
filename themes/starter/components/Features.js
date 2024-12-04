@@ -106,6 +106,86 @@ export const Features = () => {
               </div>
             </div>
           </div>
+
+          <div className='-mx-4 flex flex-wrap'>
+            <div className='w-full px-4 md:w-1/2 lg:w-1/4'>
+              <div className='wow fadeInUp group mb-12' data-wow-delay='.1s'>
+                <div className='relative z-10 mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-[14px] bg-primary'>
+                  <span className='absolute left-0 top-0 -z-[1] mb-8 flex h-[70px] w-[70px] rotate-[25deg] items-center justify-center rounded-[14px] bg-primary bg-opacity-20 duration-300 group-hover:rotate-45'></span>
+                  <SVGGifts />
+                </div>
+                <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
+                  {siteConfig('STARTER_FEATURE_1_TITLE_1')}
+                </h4>
+                <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
+                  {siteConfig('STARTER_FEATURE_1_TEXT_1')}
+                </p>
+                <a
+                  href={siteConfig('STARTER_FEATURE_1_BUTTON_URL')}
+                  className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
+                  {siteConfig('STARTER_FEATURE_1_BUTTON_TEXT')}
+                </a>
+              </div>
+            </div>
+            <div className='w-full px-4 md:w-1/2 lg:w-1/4'>
+              <div className='wow fadeInUp group mb-12' data-wow-delay='.15s'>
+                <div className='relative z-10 mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-[14px] bg-primary'>
+                  <span className='absolute left-0 top-0 -z-[1] mb-8 flex h-[70px] w-[70px] rotate-[25deg] items-center justify-center rounded-[14px] bg-primary bg-opacity-20 duration-300 group-hover:rotate-45'></span>
+                  <SVGTemplate />
+                </div>
+                <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
+                  {siteConfig('STARTER_FEATURE_2_TITLE_1')}
+                </h4>
+                <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
+                  {siteConfig('STARTER_FEATURE_2_TEXT_1')}
+                </p>
+                <a
+                  href={siteConfig('STARTER_FEATURE_2_BUTTON_URL')}
+                  className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
+                  {siteConfig('STARTER_FEATURE_2_BUTTON_TEXT')}
+                </a>
+              </div>
+            </div>
+            <div className='w-full px-4 md:w-1/2 lg:w-1/4'>
+              <div className='wow fadeInUp group mb-12' data-wow-delay='.2s'>
+                <div className='relative z-10 mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-[14px] bg-primary'>
+                  <span className='absolute left-0 top-0 -z-[1] mb-8 flex h-[70px] w-[70px] rotate-[25deg] items-center justify-center rounded-[14px] bg-primary bg-opacity-20 duration-300 group-hover:rotate-45'></span>
+                  <SVGDesign />
+                </div>
+                <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
+                  {siteConfig('STARTER_FEATURE_3_TITLE_1')}
+                </h4>
+                <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
+                  {siteConfig('STARTER_FEATURE_3_TEXT_1')}
+                </p>
+                <a
+                  href={siteConfig('STARTER_FEATURE_3_BUTTON_URL')}
+                  className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
+                  {siteConfig('STARTER_FEATURE_3_BUTTON_TEXT')}
+                </a>
+              </div>
+            </div>
+            <div className='w-full px-4 md:w-1/2 lg:w-1/4'>
+              <div className='wow fadeInUp group mb-12' data-wow-delay='.25s'>
+                <div className='relative z-10 mb-10 flex h-[70px] w-[70px] items-center justify-center rounded-[14px] bg-primary'>
+                  <span className='absolute left-0 top-0 -z-[1] mb-8 flex h-[70px] w-[70px] rotate-[25deg] items-center justify-center rounded-[14px] bg-primary bg-opacity-20 duration-300 group-hover:rotate-45'></span>
+                  <SVGEssential />
+                </div>
+                <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
+                  {siteConfig('STARTER_FEATURE_4_TITLE_1')}
+                </h4>
+                <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
+                  {siteConfig('STARTER_FEATURE_4_TEXT_1')}
+                </p>
+                <a
+                  href={siteConfig('STARTER_FEATURE_4_BUTTON_URL')}
+                  className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
+                  {siteConfig('STARTER_FEATURE_3_BUTTON_TEXT')}
+                </a>
+              </div>
+            </div>
+          </div>
+                                   
         </div>
       </section>
       {/* <!-- ====== Features Section End --> */}
