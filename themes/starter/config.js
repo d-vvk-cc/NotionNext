@@ -38,63 +38,63 @@ const CONFIG = {
   STARTER_FEATURE_TEXT_2:
     '和谨泰律所拥有一支高素质律师队伍，每位律师都在各自领域内具有深厚经验，部分律师还担任政府、企事业单位的法律顾问。 ', // 特性
 
-  STARTER_FEATURE_1_TITLE_1: '单位特点', // 特性1
-  STARTER_FEATURE_1_TEXT_1: '精品所特色，专业、高效、灵活，现有律师经验丰富', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '精英团队，专业服务', // 特性1
+  STARTER_FEATURE_1_TEXT_1: '我们拥有一支经验丰富的律师团队，涵盖多个专业领域。律师们不仅具备深厚的法律功底，还积累了丰富的实战经验，能够为客户提供高效、优质的法律服务。', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: '#', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: '律所现状', // 特性2
-  STARTER_FEATURE_2_TEXT_1: '新但不稚气，具备客观、科学、合理的合作规则', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '高效灵活，运营一体化', // 特性2
+  STARTER_FEATURE_2_TEXT_1: '和谨泰律所采用一体化运营模式，整合资源与专业，确保内部高效协作，最大限度地提升客户体验与服务效率。', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     '#', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: '专业管理', // 特性3
-  STARTER_FEATURE_3_TEXT_1: '执行主任专职，职业化管理，无内耗障碍', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '品牌化创新，服务差异化', // 特性3
+  STARTER_FEATURE_3_TEXT_1: '我们注重品牌建设，通过差异化的服务创新，打造独特的法律服务产品，为客户创造更大的价值。', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: '#', // 特性3
 
-  STARTER_FEATURE_4_TITLE_1: '案源支持', // 特性4
-  STARTER_FEATURE_4_TEXT_1: '自带专业营销业务团队，可提供高质量案源', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '强大案源支持，精准匹配需求', // 特性4
+  STARTER_FEATURE_4_TEXT_1: '律所配备专业营销团队，具备丰富的推广经验和广泛的渠道资源，能够持续为客户提供高质量的案源和解决方案。', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: '#', // 特性4
   
-  STARTER_FEATURE_1_TITLE_1: '单位特点', // 特性5
-  STARTER_FEATURE_1_TEXT_1: '精品所特色，专业、高效、灵活，现有律师经验丰富', // 特性1
-  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: '#', // 特性1
+  STARTER_FEATURE_1_TITLE_1: '科学管理，无内耗障碍', // 特性5
+  STARTER_FEATURE_1_TEXT_1: '执行主任专职负责律所管理，确保决策科学合理，管理流程专业化，避免资源浪费和内部消耗。', // 特性5
+  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性5
+  STARTER_FEATURE_1_BUTTON_URL: '#', // 特性5
 
-  STARTER_FEATURE_2_TITLE_1: '律所现状', // 特性6
-  STARTER_FEATURE_2_TEXT_1: '新但不稚气，具备客观、科学、合理的合作规则', // 特性2
-  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
+  STARTER_FEATURE_2_TITLE_1: '全面支持，合作共赢', // 特性6
+  STARTER_FEATURE_2_TEXT_1: '提供全方位支持，包括调档协调、碰庭协作、客户关系维护等，帮助合作伙伴实现共赢。', // 特性6
+  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性6
   STARTER_FEATURE_2_BUTTON_URL:
-    '#', // 特性2
+    '#', // 特性6
 
-  STARTER_FEATURE_3_TITLE_1: '专业管理', // 特性7
-  STARTER_FEATURE_3_TEXT_1: '执行主任专职，职业化管理，无内耗障碍', // 特性3
-  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: '#', // 特性3
+  STARTER_FEATURE_3_TITLE_1: '资源整合，行业领先', // 特性7
+  STARTER_FEATURE_3_TEXT_1: '凭借广泛的社会资源和行业渠道，我们在多个领域具备明显的资源整合优势，能够为客户提供跨领域的综合法律服务。', // 特性7
+  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性7
+  STARTER_FEATURE_3_BUTTON_URL: '#', // 特性8
 
-  STARTER_FEATURE_4_TITLE_1: '案源支持', // 特性8
-  STARTER_FEATURE_4_TEXT_1: '自带专业营销业务团队，可提供高质量案源', // 特性4
-  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: '#', // 特性4
+  STARTER_FEATURE_4_TITLE_1: '注重客户关系，信赖长期合作', // 特性8
+  STARTER_FEATURE_4_TEXT_1: '和谨泰律所始终将客户需求放在首位，以优质的服务和专业的态度赢得客户的信任，致力于建立长期合作关系。', // 特性8
+  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性8
+  STARTER_FEATURE_4_BUTTON_URL: '#', // 特性8
   
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
+  STARTER_ABOUT_TITLE: '关于我们',
   STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
+    '和谨泰律所以“维护社会正义，保障客户权益”为宗旨，业务范围覆盖公司法律事务、房地产与建设工程、知识产权、劳动争议、刑事辩护、物业管理及公益法律服务等多个领域。律所现有执业律师13人，配备经验丰富的后勤和业务团队，为客户提供全方位支持。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+  STARTER_ABOUT_BUTTON_URL: '#',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '博客站点',
-  STARTER_ABOUT_TIPS_3: '正在线上运行',
+  STARTER_ABOUT_TIPS_2: '累积案件',
+  STARTER_ABOUT_TIPS_3: '持续增加中……',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
@@ -133,66 +133,66 @@ const CONFIG = {
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
-  STARTER_TESTIMONIALS_TITLE: '用户反馈',
-  STARTER_TESTIMONIALS_TEXT_1: '我们的用户怎么说',
+  STARTER_TESTIMONIALS_TITLE: '客户反馈',
+  STARTER_TESTIMONIALS_TEXT_1: '我们的客户怎么说',
   STARTER_TESTIMONIALS_TEXT_2:
-    '数千位站长选择用NotionNext搭建他们的网站,通过帮助手册、交流社群以及技术咨询，大家成功上线了自己的网站',
+    '我们始终以客户为中心，致力于提供优质、高效、全面的法律服务。客户的信任与满意，是我们不断前行的动力！',
   STARTER_TESTIMONIALS_STAR_ICON: '/images/starter/testimonials/icon-star.svg', // 评分图标
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+        '和谨泰律所的服务非常专业，团队高效解决了我们复杂的合同纠纷问题，为公司挽回了巨大损失。他们是我们最信赖的法律伙伴！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '李先生',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市恒润达建设工程有限公司',
+      STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        '张宸硕律师和团队在知识产权保护方面的表现令人印象深刻，快速反应且细致周到，为我们公司的品牌保驾护航。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '王女士',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '，深圳市雷霆应急科技有限公司',
+      STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+        '和谨泰律所不仅在法律事务上经验丰富，还能提供战略性建议，帮助我们规避风险，提升企业合规水平，非常值得推荐！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '陈总',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市崛起教育集团有限公司',
+      STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+        '律所团队始终以客户为中心，为我们提供量身定制的法律服务，效率高且结果满意，我们对合作非常满意！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '赵经理',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市动力快车实业有限公司',
+      STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
+        '刑事辩护团队以专业的态度成功维护了我的合法权益，细致的沟通让我感受到他们的责任心，非常感谢！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '杨先生',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '个人客户',
+      STARTER_TESTIMONIALS_ITEM_URL: '#'
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '在复杂的股权纠纷案件中，和谨泰团队展现了超强的专业能力和执行力，为我们的企业争取到最大的利益，非常感谢他们的支持！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '刘先生',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市中创智能数字技术有限公司',
+      STARTER_TESTIMONIALS_ITEM_URL: '#'
     }
   ],
 
@@ -200,53 +200,53 @@ const CONFIG = {
   STARTER_FAQ_ENABLE: true, // 常见问题模块开关
   STARTER_FAQ_TITLE: '常见问题解答',
   STARTER_FAQ_TEXT_1: '有任何问题吗？请看这里',
-  STARTER_FAQ_TEXT_2: '我们收集了常见的用户疑问',
+  STARTER_FAQ_TEXT_2: '我们收集了常见的客户疑问',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: '和谨泰律师事务所在保护客户隐私方面有哪些措施？',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    '和谨泰律所视客户隐私为首要责任。我们实行严格的内部保密制度，确保案件资料仅限相关团队访问，并使用加密技术保护电子文件的安全。同时，律所定期进行数据安全培训，确保每位员工严格遵守保密义务。',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_QUESTION: '和谨泰律所提供的中小企业法律服务有哪些特色？',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    '我们为中小企业提供从公司设立到日常经营的全周期法律服务，包括合同管理、知识产权保护、劳动合规以及股权设计等。同时，我们设计了灵活的服务套餐，帮助中小企业以合理的成本获得精准的法律支持，助力企业稳定成长。',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_QUESTION: '和谨泰律所的服务适合个人客户吗？',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    '当然适合。和谨泰律所不仅服务企业，也为个人客户提供优质服务，包括婚姻家事、劳动争议、刑事辩护等领域。我们根据个人客户的具体需求制定定制化的解决方案，确保权益得到最大程度保护。',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_QUESTION: '和谨泰律所是否提供公益法律服务？',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    '是的，和谨泰律所积极参与公益事业，定期为社区、困难群体和非营利组织提供免费的法律咨询与服务，履行律所的社会责任，促进法律公平与正义。',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
-  STARTER_TEAM_TITLE: '团队成员',
-  STARTER_TEAM_TEXT_1: '我们的开发者团队',
+  STARTER_TEAM_TITLE: '律师团队',
+  STARTER_TEAM_TEXT_1: '部分律师介绍',
   STARTER_TEAM_TEXT_2:
-    'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位<a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors">贡献者</a>',
+    '和谨泰律所拥有一支高素质律师队伍，每位律师都在各自领域内具有深厚经验，部分律师还担任政府、企事业单位的法律顾问。',
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+      STARTER_TEAM_ITEM_NICKNAME: '张宸硕律师',
+      STARTER_TEAM_ITEM_DESCRIPTION: '民商事争议解决、刑事辩护、房地产法律事务及股权重组，处理复杂案件'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+      STARTER_TEAM_ITEM_NICKNAME: '陈军律师',
+      STARTER_TEAM_ITEM_DESCRIPTION: '投融资、政府法律顾问及企业破产重整，重大疑难案件'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
+      STARTER_TEAM_ITEM_NICKNAME: '雷宜勇律师',
+      STARTER_TEAM_ITEM_DESCRIPTION: '婚姻家事、知识产权及企业合规管理，能提供全面的法律支持'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
+      STARTER_TEAM_ITEM_NICKNAME: '许兆阳律师',
+      STARTER_TEAM_ITEM_DESCRIPTION: '行政诉讼、企业顾问及劳动争议，擅长制定针对性法律解决方案'
     }
   ],
 
@@ -263,9 +263,9 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: '联系我们',
   STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
   STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
+  STARTER_CONTACT_LOCATION_TEXT: '中国，深圳',
   STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_EMAIL_TEXT: 'coo@jhtfl.com',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
