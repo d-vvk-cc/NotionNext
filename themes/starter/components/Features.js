@@ -115,15 +115,15 @@ export const Features = () => {
                   <SVGGifts />
                 </div>
                 <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
-                  {siteConfig('STARTER_FEATURE_1_TITLE_1')}
+                  {siteConfig('STARTER_FEATURE_5_TITLE_1')}
                 </h4>
                 <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
-                  {siteConfig('STARTER_FEATURE_1_TEXT_1')}
+                  {siteConfig('STARTER_FEATURE_5_TEXT_1')}
                 </p>
                 <a
-                  href={siteConfig('STARTER_FEATURE_1_BUTTON_URL')}
+                  href={siteConfig('STARTER_FEATURE_5_BUTTON_URL')}
                   className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
-                  {siteConfig('STARTER_FEATURE_1_BUTTON_TEXT')}
+                  {siteConfig('STARTER_FEATURE_5_BUTTON_TEXT')}
                 </a>
               </div>
             </div>
@@ -134,15 +134,15 @@ export const Features = () => {
                   <SVGTemplate />
                 </div>
                 <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
-                  {siteConfig('STARTER_FEATURE_2_TITLE_1')}
+                  {siteConfig('STARTER_FEATURE_6_TITLE_1')}
                 </h4>
                 <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
-                  {siteConfig('STARTER_FEATURE_2_TEXT_1')}
+                  {siteConfig('STARTER_FEATURE_6_TEXT_1')}
                 </p>
                 <a
-                  href={siteConfig('STARTER_FEATURE_2_BUTTON_URL')}
+                  href={siteConfig('STARTER_FEATURE_6_BUTTON_URL')}
                   className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
-                  {siteConfig('STARTER_FEATURE_2_BUTTON_TEXT')}
+                  {siteConfig('STARTER_FEATURE_6_BUTTON_TEXT')}
                 </a>
               </div>
             </div>
@@ -153,15 +153,15 @@ export const Features = () => {
                   <SVGDesign />
                 </div>
                 <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
-                  {siteConfig('STARTER_FEATURE_3_TITLE_1')}
+                  {siteConfig('STARTER_FEATURE_7_TITLE_1')}
                 </h4>
                 <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
-                  {siteConfig('STARTER_FEATURE_3_TEXT_1')}
+                  {siteConfig('STARTER_FEATURE_7_TEXT_1')}
                 </p>
                 <a
-                  href={siteConfig('STARTER_FEATURE_3_BUTTON_URL')}
+                  href={siteConfig('STARTER_FEATURE_7_BUTTON_URL')}
                   className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
-                  {siteConfig('STARTER_FEATURE_3_BUTTON_TEXT')}
+                  {siteConfig('STARTER_FEATURE_7_BUTTON_TEXT')}
                 </a>
               </div>
             </div>
@@ -172,15 +172,15 @@ export const Features = () => {
                   <SVGEssential />
                 </div>
                 <h4 className='mb-3 text-xl font-bold text-dark dark:text-white'>
-                  {siteConfig('STARTER_FEATURE_4_TITLE_1')}
+                  {siteConfig('STARTER_FEATURE_8_TITLE_1')}
                 </h4>
                 <p className='mb-8 text-body-color dark:text-dark-6 lg:mb-9'>
-                  {siteConfig('STARTER_FEATURE_4_TEXT_1')}
+                  {siteConfig('STARTER_FEATURE_8_TEXT_1')}
                 </p>
                 <a
-                  href={siteConfig('STARTER_FEATURE_4_BUTTON_URL')}
+                  href={siteConfig('STARTER_FEATURE_8_BUTTON_URL')}
                   className='text-base font-medium text-dark hover:text-primary dark:text-white dark:hover:text-primary'>
-                  {siteConfig('STARTER_FEATURE_3_BUTTON_TEXT')}
+                  {siteConfig('STARTER_FEATURE_8_BUTTON_TEXT')}
                 </a>
               </div>
             </div>
