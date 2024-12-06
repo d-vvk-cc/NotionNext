@@ -59,26 +59,26 @@ const CONFIG = {
   STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性4
   STARTER_FEATURE_4_BUTTON_URL: '#', // 特性4
   
-  STARTER_FEATURE_1_TITLE_1: '科学管理，无内耗障碍', // 特性5
-  STARTER_FEATURE_1_TEXT_1: '执行主任专职负责律所管理，确保决策科学合理，管理流程专业化，避免资源浪费和内部消耗。', // 特性5
-  STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性5
-  STARTER_FEATURE_1_BUTTON_URL: '#', // 特性5
+  STARTER_FEATURE_5_TITLE_1: '科学管理，无内耗障碍', // 特性5
+  STARTER_FEATURE_5_TEXT_1: '执行主任专职负责律所管理，确保决策科学合理，管理流程专业化，避免资源浪费和内部消耗。', // 特性5
+  STARTER_FEATURE_5_BUTTON_TEXT: '', // 特性5
+  STARTER_FEATURE_5_BUTTON_URL: '#', // 特性5
 
-  STARTER_FEATURE_2_TITLE_1: '全面支持，合作共赢', // 特性6
-  STARTER_FEATURE_2_TEXT_1: '提供全方位支持，包括调档协调、碰庭协作、客户关系维护等，帮助合作伙伴实现共赢。', // 特性6
-  STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性6
-  STARTER_FEATURE_2_BUTTON_URL:
+  STARTER_FEATURE_6_TITLE_1: '全面支持，合作共赢', // 特性6
+  STARTER_FEATURE_6_TEXT_1: '提供全方位支持，包括调档协调、碰庭协作、客户关系维护等，帮助合作伙伴实现共赢。', // 特性6
+  STARTER_FEATURE_6_BUTTON_TEXT: '', // 特性6
+  STARTER_FEATURE_6_BUTTON_URL:
     '#', // 特性6
 
-  STARTER_FEATURE_3_TITLE_1: '资源整合，行业领先', // 特性7
-  STARTER_FEATURE_3_TEXT_1: '凭借广泛的社会资源和行业渠道，我们在多个领域具备明显的资源整合优势，能够为客户提供跨领域的综合法律服务。', // 特性7
-  STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性7
-  STARTER_FEATURE_3_BUTTON_URL: '#', // 特性8
+  STARTER_FEATURE_7_TITLE_1: '资源整合，行业领先', // 特性7
+  STARTER_FEATURE_7_TEXT_1: '凭借广泛的社会资源和行业渠道，我们在多个领域具备明显的资源整合优势，能够为客户提供跨领域的综合法律服务。', // 特性7
+  STARTER_FEATURE_7_BUTTON_TEXT: '', // 特性7
+  STARTER_FEATURE_7_BUTTON_URL: '#', // 特性8
 
-  STARTER_FEATURE_4_TITLE_1: '注重客户关系，信赖长期合作', // 特性8
-  STARTER_FEATURE_4_TEXT_1: '和谨泰律所始终将客户需求放在首位，以优质的服务和专业的态度赢得客户的信任，致力于建立长期合作关系。', // 特性8
-  STARTER_FEATURE_4_BUTTON_TEXT: '', // 特性8
-  STARTER_FEATURE_4_BUTTON_URL: '#', // 特性8
+  STARTER_FEATURE_8_TITLE_1: '注重客户关系，信赖长期合作', // 特性8
+  STARTER_FEATURE_8_TEXT_1: '和谨泰律所始终将客户需求放在首位，以优质的服务和专业的态度赢得客户的信任，致力于建立长期合作关系。', // 特性8
+  STARTER_FEATURE_8_BUTTON_TEXT: '', // 特性8
+  STARTER_FEATURE_8_BUTTON_URL: '#', // 特性8
   
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
