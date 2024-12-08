@@ -25,11 +25,11 @@ const CONFIG = {
   STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
-  STARTER_NAV_BUTTON_1_URL: '/sign-in',
+  //STARTER_NAV_BUTTON_1_TEXT: 'Sign In',
+  //STARTER_NAV_BUTTON_1_URL: '/sign-in',
 
-  STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
-  STARTER_NAV_BUTTON_2_URL: '/sign-up',
+  //STARTER_NAV_BUTTON_2_TEXT: 'Sign Up',
+  //STARTER_NAV_BUTTON_2_URL: '/sign-up',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
@@ -231,22 +231,22 @@ const CONFIG = {
       STARTER_TEAM_ITEM_AVATAR:
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
       STARTER_TEAM_ITEM_NICKNAME: '张宸硕律师',
-      STARTER_TEAM_ITEM_DESCRIPTION: '民商事争议解决、刑事辩护、房地产法律事务及股权重组，处理复杂案件'
+      STARTER_TEAM_ITEM_DESCRIPTION: '民商事争议、股权重组、投融资事务和破产债权处理'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: '陈军律师',
-      STARTER_TEAM_ITEM_DESCRIPTION: '投融资、政府法律顾问及企业破产重整，重大疑难案件'
+      STARTER_TEAM_ITEM_NICKNAME: '宁齐玲律师',
+      STARTER_TEAM_ITEM_DESCRIPTION: '婚姻家事、证券期货、企业股权和金融纠纷'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
       STARTER_TEAM_ITEM_NICKNAME: '雷宜勇律师',
-      STARTER_TEAM_ITEM_DESCRIPTION: '婚姻家事、知识产权及企业合规管理，能提供全面的法律支持'
+      STARTER_TEAM_ITEM_DESCRIPTION: '刑事辩护、知识产权、资产评估及会计审计法律事务'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: '许兆阳律师',
-      STARTER_TEAM_ITEM_DESCRIPTION: '行政诉讼、企业顾问及劳动争议，擅长制定针对性法律解决方案'
+      STARTER_TEAM_ITEM_NICKNAME: '杨小虎律师',
+      STARTER_TEAM_ITEM_DESCRIPTION: '劳动合规、劳动争议、用工管理和企业裁员事务'
     }
   ],
 
