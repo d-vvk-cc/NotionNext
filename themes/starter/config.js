@@ -229,22 +229,22 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
+        '/images/starter/team/team-01-z.png',
       STARTER_TEAM_ITEM_NICKNAME: '张宸硕律师',
       STARTER_TEAM_ITEM_DESCRIPTION: '民商事争议、股权重组、投融资事务和破产债权处理'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03-l.png',
       STARTER_TEAM_ITEM_NICKNAME: '宁齐玲律师',
       STARTER_TEAM_ITEM_DESCRIPTION: '婚姻家事、证券期货、企业股权和金融纠纷'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02-l.png',
       STARTER_TEAM_ITEM_NICKNAME: '雷宜勇律师',
       STARTER_TEAM_ITEM_DESCRIPTION: '刑事辩护、知识产权、资产评估及会计审计法律事务'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-04-y.png',
       STARTER_TEAM_ITEM_NICKNAME: '杨小虎律师',
       STARTER_TEAM_ITEM_DESCRIPTION: '劳动合规、劳动争议、用工管理和企业裁员事务'
     }
