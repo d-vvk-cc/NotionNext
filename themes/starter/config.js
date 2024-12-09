@@ -15,7 +15,7 @@ const CONFIG = {
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '了解我们', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    '#', // 英雄区按钮
+    'https://www.hejintai.com/about', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '联系我们', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: '#', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
@@ -86,7 +86,7 @@ const CONFIG = {
   STARTER_ABOUT_TEXT:
     '和谨泰律所以“维护社会正义，保障客户权益”为宗旨，业务范围覆盖公司法律事务、房地产与建设工程、知识产权、劳动争议、刑事辩护、物业管理及公益法律服务等多个领域。律所现有执业律师13人，配备经验丰富的后勤和业务团队，为客户提供全方位支持。',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: '#',
+  STARTER_ABOUT_BUTTON_URL: 'https://www.hejintai.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
@@ -145,7 +145,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '和谨泰律所的服务非常专业，团队高效解决了我们复杂的合同纠纷问题，为公司挽回了巨大损失。他们是我们最信赖的法律伙伴！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
+        '/images/starter/bg-hero-circle.svg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '李先生',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市恒润达建设工程有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -154,7 +154,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '张宸硕律师和团队在知识产权保护方面的表现令人印象深刻，快速反应且细致周到，为我们公司的品牌保驾护航。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
+        '/images/starter/bg-hero-circle.svg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '王女士',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '，深圳市雷霆应急科技有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -163,7 +163,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '和谨泰律所不仅在法律事务上经验丰富，还能提供战略性建议，帮助我们规避风险，提升企业合规水平，非常值得推荐！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        '/images/starter/bg-hero-circle.svg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '陈总',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市崛起教育集团有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -172,7 +172,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '律所团队始终以客户为中心，为我们提供量身定制的法律服务，效率高且结果满意，我们对合作非常满意！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
+        '/images/starter/bg-hero-circle.svg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '赵经理',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市动力快车实业有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -181,7 +181,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '刑事辩护团队以专业的态度成功维护了我的合法权益，细致的沟通让我感受到他们的责任心，非常感谢！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        '/images/starter/bg-hero-circle.svg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '杨先生',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '个人客户',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -189,7 +189,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '在复杂的股权纠纷案件中，和谨泰团队展现了超强的专业能力和执行力，为我们的企业争取到最大的利益，非常感谢他们的支持！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
+        '/images/starter/bg-hero-circle.svg',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '刘先生',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市中创智能数字技术有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
