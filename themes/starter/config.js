@@ -145,7 +145,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '和谨泰律所的服务非常专业，团队高效解决了我们复杂的合同纠纷问题，为公司挽回了巨大损失。他们是我们最信赖的法律伙伴！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '/images/starter/bg-hero-circle.svg',
+        '/images/starter/mynaui--user-waves.png',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '李先生',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市恒润达建设工程有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -154,7 +154,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '张宸硕律师和团队在知识产权保护方面的表现令人印象深刻，快速反应且细致周到，为我们公司的品牌保驾护航。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '/images/starter/bg-hero-circle.svg',
+        '/images/starter/mynaui--user-waves.png',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '王女士',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '，深圳市雷霆应急科技有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -163,7 +163,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '和谨泰律所不仅在法律事务上经验丰富，还能提供战略性建议，帮助我们规避风险，提升企业合规水平，非常值得推荐！ ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '/images/starter/bg-hero-circle.svg',
+        '/images/starter/mynaui--user-waves.png',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '陈总',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市崛起教育集团有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -172,7 +172,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '律所团队始终以客户为中心，为我们提供量身定制的法律服务，效率高且结果满意，我们对合作非常满意！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '/images/starter/bg-hero-circle.svg',
+        '/images/starter/mynaui--user-waves.png',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '赵经理',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市动力快车实业有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -181,7 +181,7 @@ const CONFIG = {
       STARTER_TESTIMONIALS_ITEM_TEXT:
         '刑事辩护团队以专业的态度成功维护了我的合法权益，细致的沟通让我感受到他们的责任心，非常感谢！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '/images/starter/bg-hero-circle.svg',
+        '/images/starter/mynaui--user-waves.png',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '杨先生',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '个人客户',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
@@ -189,7 +189,7 @@ const CONFIG = {
     {
       STARTER_TESTIMONIALS_ITEM_TEXT: '在复杂的股权纠纷案件中，和谨泰团队展现了超强的专业能力和执行力，为我们的企业争取到最大的利益，非常感谢他们的支持！',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        '/images/starter/bg-hero-circle.svg',
+        '/images/starter/mynaui--user-waves.png',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '刘先生',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '深圳市中创智能数字技术有限公司',
       STARTER_TESTIMONIALS_ITEM_URL: '#'
